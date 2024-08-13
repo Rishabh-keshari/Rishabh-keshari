@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh-keshari
-- 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning B.Tech 2nd Year.
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning the Information technology specification of B.Tech in 2nd Year.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rishabhkesari453@gmail.com
 
